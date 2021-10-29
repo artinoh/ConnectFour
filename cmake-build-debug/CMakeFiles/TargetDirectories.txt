@@ -1,0 +1,3 @@
+C:/Users/Gamer/Desktop/CS212/ConnectFour/cmake-build-debug/CMakeFiles/ConnectFour.dir
+C:/Users/Gamer/Desktop/CS212/ConnectFour/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gamer/Desktop/CS212/ConnectFour/cmake-build-debug/CMakeFiles/rebuild_cache.dir
